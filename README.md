@@ -49,7 +49,7 @@ Runs comfortably on computers from ~2008 onwards.
 ## 🚀 How to Use
 
 1. **Download the ISO** from the link below.
-[Download]([https://github.com](https://drive.google.com/file/d/1kJHS9XctNtCx8gWl6L-M1DKbXyRW60JK/view?usp=sharing))
+- [Google Drive](https://drive.google.com/file/d/1kJHS9XctNtCx8gWl6L-M1DKbXyRW60JK/view?usp=sharing)
 2. **Write it to a USB drive** using one of these tools:
    - [Rufus](https://rufus.ie/) (Windows)
    - [Balena Etcher](https://etcher.balena.io/) (Windows / macOS / Linux)
